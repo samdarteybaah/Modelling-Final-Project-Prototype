@@ -32,5 +32,6 @@
 
 ### Demonstration
 Link to video: https://youtu.be/BZASjD4Dl7s
+Link to colab: https://colab.research.google.com/drive/1Koj1VNIJsq9GevDpi22PVaDVC0jHMUwY
 ---
 
